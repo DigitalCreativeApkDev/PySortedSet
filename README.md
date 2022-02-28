@@ -42,7 +42,7 @@ Output: PySortedSet([6, 2])
 
 Input: 
 
-a: PySortedSet = ([5, 6, 2])
+a: PySortedSet = PySortedSet([5, 6, 2])
 print(a[2])
 
 Output: 6

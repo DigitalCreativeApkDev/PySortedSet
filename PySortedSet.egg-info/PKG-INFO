@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PySortedSet
-Version: 1.1
+Version: 1.2
 Summary: This package contains implementation of the library "PySortedSet". PySortedSet is a data type supporting a sorted set which is aware of indices.
 Home-page: https://github.com/DigitalCreativeApkDev/PySortedSet
 Author: DigitalCreativeApkDev
@@ -50,7 +50,7 @@ Description: # PySortedSet
         
         Input: 
         
-        a: PySortedSet = ([5, 6, 2])
+        a: PySortedSet = PySortedSet([5, 6, 2])
         print(a[2])
         
         Output: 6

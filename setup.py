@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='PySortedSet',
-    version='1.1',
+    version='1.2',
     packages=['PySortedSet'],
     url='https://github.com/DigitalCreativeApkDev/PySortedSet',
     license='MIT',
